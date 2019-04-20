@@ -1,0 +1,196 @@
+html {
+  min-height: 100vh;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-image: url("images/background.png"); opacity: 0.8;
+  background-size: cover;
+  font-family: Verdana;
+  min-height: 100vh;
+}
+
+.container {
+	margin-top: 138px;	
+  width: 500px;
+  height: 558px;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 30px;
+  border-top-right-radius: 30px;
+  margin-bottom: 185.67px;
+}
+
+.circle {
+	margin-top: -50px;
+	margin-left: 200px;
+	width: 100px;
+	height: 100px;
+	background: rgba(58, 140, 166, 0.9);
+	border-radius: 50px;
+	text-align: center;
+}
+
+.vector {
+	margin:33px 34px 35px 34px;
+	width: 32px;
+	height: 32px;
+}
+
+.heading {
+	margin-top: 26px;
+	padding-right: 187px;
+	padding-left: 187px;
+	width: 126px;
+	height: 44px;
+	font-size: 36px;
+	line-height: normal;
+	text-align: center;
+	color: #727272;
+}
+
+.container main {
+  padding: 35px 30px 40px;
+  background-color: white;
+}
+
+.container  .field1 {
+  margin-right: 49px;
+  margin-left: 51px; 
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  border: none;
+  width: 400px;
+  height: 82px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+.container  .field2 {
+  margin-right: 49px;
+  margin-left: 51px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  border: none;
+  width: 400px;
+  height: 82px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+
+.container .field1 .icon {
+  margin: 33px 25px 35px 25px;
+  width: 16px;
+  width: 32px;
+  height: 32px;
+}
+
+.container .field2 .icon {
+  margin: 38px 25px 39px 25px;
+  width: 24px;
+  height: 32px;
+}
+
+.container .field1 input {
+  border: 0;
+  outline: 0;
+  width: 127px;
+  height: 27px;
+  font-size: 22px;
+  line-height: normal;
+  color: #7A7A7A;
+}
+
+.container .field2 input {
+  border: 0;
+  outline: 0;
+  width: 127px;
+  height: 27px;
+  font-size: 22px;
+  line-height: normal;
+  color: #7A7A7A;
+}
+
+
+
+.container  button {
+  border: 0;
+  width: 400px;
+  height: 74px;
+  background: #3A8CA6;
+  border-radius: 10px;
+  margin-left: 51px;
+  font-size: 28px;
+  line-height: normal;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.container  .link {
+  display: inline-block;
+  margin-left: 122px;
+}
+
+.container  .link a {
+  width: 133px;
+  height: 19px;
+  font-size: 15px;
+  line-height: normal;
+  color: #939393;
+  text-decoration: none;
+}
+
+.checkbox {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background: #FFFFFF;
+	border-radius: 5px;
+	margin-left: 51px;
+	margin-top: 27px;
+}
+
+.yes {
+	width: 13px;
+	height: 10px;
+	padding: 7px 6px 8px 6px;
+}
+
+.remember {
+	display: inline-block;
+	width: 111px;
+	height: 19px;
+	font-size: 15px;
+	line-height: normal;
+	color: #939393;
+	margin-left: 9px;
+	margin-top: 31px;
+}
+
+.line {
+	width: 500px;
+	height: 2px;
+	background: #FFFFFF;
+	margin-top: 104px;
+}
+
+
+.REGISTER {
+width: 500px;
+height: 120px;
+font-size: 15px;
+line-height: normal;
+text-align: center;
+margin-top: 26px;
+padding-right: 411px;
+text-decoration: none;
+color: #B7B7B7;
+}
+
+
